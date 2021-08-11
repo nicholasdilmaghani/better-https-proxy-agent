@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/insightfuls/better-https-proxy-agent.git"
+    "url": "git+https://github.com/nicholasdilmaghani/better-https-proxy-agent.git"
   },
   "keywords": [
     "https",
@@ -44,9 +44,9 @@
     "index.js"
   ],
   "bugs": {
-    "url": "https://github.com/insightfuls/better-https-proxy-agent/issues"
+    "url": "https://github.com/nicholasdilmaghani/better-https-proxy-agent/issues"
   },
-  "homepage": "https://github.com/insightfuls/better-https-proxy-agent#readme",
+  "homepage": "https://github.com/nicholasdilmaghani/better-https-proxy-agent#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^7.1.2"
